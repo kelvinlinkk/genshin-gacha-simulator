@@ -1,5 +1,11 @@
-# genshin-gacha-simulator
+<h1 style="color:#ffff00">myhome</h1>
 
-揚中之數原神抽卡簡易模擬器
+> Where everything started
 
-You may try out the latest version [here](https://kelvinlinkk.github.io/genshin/card.html)
+### Contact with Me
+
+my website : [myhome (kelvinlinkk.github.io)](https://kelvinlinkk.github.io/)
+
+my instagram : [Instagram](https://www.instagram.com/)
+
+my twitter : [Kun-Yi Lin (@kelvinlinkk) / Twitter](https://twitter.com/kelvinlinkk)

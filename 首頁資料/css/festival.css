@@ -85,7 +85,7 @@ body {
 #skip{position: fixed;top: 0;right: 0;margin: 50px;height: 50px;width: 150px;opacity: 0.5;}
 
 /*result*/
-.result{position: fixed;inset: 0px;display: none;background-image: url("/首頁資料/卡池資訊/showcard.jpg");}
+.result{position: fixed;inset: 0px;display: none;background-image: url("/genshin-card-simulator-main/首頁資料/卡池資訊/showcard.jpg");}
 .card{position: relative;display: inline-block; top: 10vh;height: 80vh;left: 10vw;width: 8vw;
     opacity: 0;object-fit:fill;z-index: 5;}
 #one-card-video{position: absolute;top: 0px;margin: auto;text-align: center;height: 100%;opacity: 0;z-index: 0;}
